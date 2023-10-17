@@ -9,7 +9,7 @@ flasgger==0.9.7.1
 Flask==2.0.2
 Flask-Cors==4.0.0
 Flask-MySQLdb==1.0.1
-Flask-SQLAlchemy==3.1.1
+Flask-SQLAlchemy==3.0.5
 Flask-Swagger-UI==4.1.0
 Flask-WTF==1.2.0
 greenlet==1.1
