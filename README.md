@@ -1,7 +1,7 @@
 # My Flask App
-# Author: Sokhohlo Sali Slyvia Ogbonna
+# Author: Sokhohlo Sali Sylvia Ogbonna
 # Email: ssokhohlo@gmail.com
-         Oyinyechi@ymail.com
+         oyinyechi@ymail.com
 
 # Description
 This Flask application is a simple web application that allows users to view articles, register, log in, create, edit, and delete articles, and manage user sessions. It uses a MySQL database to store articles and user information. The application is designed to showcase basic web development concepts using Flask, MySQL, and other related technologies.
